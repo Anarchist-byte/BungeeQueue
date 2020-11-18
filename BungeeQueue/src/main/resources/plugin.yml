@@ -1,5 +1,5 @@
 name: BungeeQueue
-author: Larskei
+author: Anarchist
 version: ${project.version}
 main: BungeeQueue.QueueMain
 description: A highly customizable queue system.
